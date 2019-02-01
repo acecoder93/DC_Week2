@@ -1,1 +1,2 @@
-RPG Game
+<h3> RPG Game </h3>
+<p> Utilized object oriented principles to develop a basic RPG game. OOP were used to create variety of characters, since majority of the characters had similar characteristics. This game allowed me to better understand the 4 principles of OOP; Encapsulation, Inheritance, Abstraction, and Polymorphism. </p>
